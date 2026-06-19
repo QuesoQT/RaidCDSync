@@ -1,5 +1,7 @@
 # RaidCDSync
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support%20the%20addon-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/qusoqt)
+
 A World of Warcraft addon that lets every healer self-report their cooldowns to the group — no combat-log snooping, no raid-leader permissions required.
 
 > **Note:** This repository is for issue tracking and feature requests only. The addon files are distributed via CurseForge / WoWInterface. Download the latest release from there and drop the `RaidCDSync` folder into your `Interface/AddOns/` directory.
@@ -43,7 +45,7 @@ Open `/rcd config` or click the minimap button to access settings:
 
 ## Reporting issues & requesting features
 
-Use the [Issues](https://github.com/qusoqt/RaidCDSync/issues) tab on this repository.
+Use the **[Issues](https://github.com/qusoqt/RaidCDSync/issues)** tab on this repository.
 
 When reporting a bug please include:
 - Your WoW version and addon version (shown in `/rcd config` → About)
@@ -52,6 +54,13 @@ When reporting a bug please include:
 - Any relevant chat output from `/rcd debug`
 
 Feature requests are welcome — open an issue and tag it **enhancement**.
+
+---
+
+## Support
+
+If this addon saves your raid a wipe, consider buying me a coffee!
+**[☕ buymeacoffee.com/qusoqt](https://buymeacoffee.com/qusoqt)**
 
 ---
 
